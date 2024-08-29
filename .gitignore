@@ -45,3 +45,5 @@ venv/
 /build/
 /out/
 /target/
+/logs
+/data
