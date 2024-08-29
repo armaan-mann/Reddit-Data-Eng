@@ -1,0 +1,47 @@
+# Ignore OS generated files
+.DS_Store
+.idea/
+Thumbs.db
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore compiled files
+*.class
+*.o
+*.out
+*.so
+
+# Ignore application-specific files
+*.db
+*.sqlite
+*.bak
+
+# Ignore IDE or editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore environment variable files
+.env
+.env.local
+.env.*.local
+
+# Ignore build files
+/dist/
+/build/
+/out/
+/target/
