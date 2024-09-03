@@ -37,5 +37,6 @@ POST_FIELDS = (
     'upvote_ratio',
     'over_18',
     'edited',
-    'spoiler'
+    'spoiler',
+    'stickied'
 )
